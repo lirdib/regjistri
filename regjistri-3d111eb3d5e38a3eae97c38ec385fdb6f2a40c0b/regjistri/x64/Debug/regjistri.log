@@ -1,0 +1,6 @@
+﻿  regjistri.cpp
+student.obj : error LNK2005: "public: __cdecl StudentList::StudentList(void)" (??0StudentList@@QEAA@XZ) already defined in regjistri.obj
+student.obj : error LNK2005: "public: __cdecl StudentList::~StudentList(void)" (??1StudentList@@QEAA@XZ) already defined in regjistri.obj
+student.obj : error LNK2005: "public: void __cdecl StudentList::add(class student)" (?add@StudentList@@QEAAXVstudent@@@Z) already defined in regjistri.obj
+student.obj : error LNK2005: "public: void __cdecl StudentList::print(void)" (?print@StudentList@@QEAAXXZ) already defined in regjistri.obj
+E:\LIRDI\c++ kursi\regjistri-3d111eb3d5e38a3eae97c38ec385fdb6f2a40c0b\x64\Debug\regjistri.exe : fatal error LNK1169: one or more multiply defined symbols found
